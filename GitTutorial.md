@@ -16,7 +16,7 @@
      - Merging | `git merge`
 4. [Collaborating with Others](#collaborating-with-others)
 5. [Cheat Sheet](#cheat-sheet)
-6. [Works Cited and Additional Resources](#additional-resources)
+6. [Additional Resources](#additional-resources)
 
 ---
 ##  What is Git?
