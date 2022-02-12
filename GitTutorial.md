@@ -46,18 +46,14 @@ $ git --version
 2. Using the Git setup wizard, follow the prompts to complete installation.
 3. Open a terminal to verify installation by typing:
 	```
-	$ git --version
-	```
-	```
-	git version 2.33.0
+	[user@localhost] $ | git --version
+			   | git version 2.33.0
 	```
 	Your version may be different.
 4. To configure your Git username and email type:
 	```
-	$ git config --global user.name "Moe Schmoe"
-	```
-	```
-	$ git config --global user.email "moeschmoe123@gmail.com"
+	[user@localhost] $ | git config --global user.name "Moe Schmoe"
+	[user@localhost] $ | git config --global user.email "moeschmoe123@gmail.com"
 	```
 	These will be used when committing changes.
 
